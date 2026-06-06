@@ -91,7 +91,3 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boing.caio@gmail.com)
 
 ---
-
-<div align="center">
-<sub>Feito com ❤️ e muito ☕ | Sempre aprendendo 🚀</sub>
-</div>
