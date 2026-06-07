@@ -15,7 +15,7 @@
 **Linguagens:**
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shapes.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Banco de dados & infraestrutura:**
 
