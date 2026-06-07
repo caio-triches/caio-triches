@@ -25,6 +25,7 @@
 ![REST API](https://img.shields.io/badge/REST%20API-%23005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
 
 **Ferramentas:**
 
