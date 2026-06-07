@@ -10,10 +10,6 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9E75&width=435&lines=Backend+Developer+%F0%9F%90%98;PHP+%7C+MySQL+%7C+REST+API;Arquitetura+limpa+%F0%9F%8F%97%EF%B8%8F;Sempre+aprendendo+%F0%9F%9A%80" alt="Typing SVG" />
-
----
-
 ## ⚙️ Stack backend
 
 **Linguagens:**
