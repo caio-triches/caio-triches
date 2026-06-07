@@ -14,32 +14,33 @@
 
 **Linguagens:**
 
-![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=%23777BB4)
-![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=%233776AB)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shapes.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Banco de dados & infraestrutura:**
 
-![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=%234479A1)
-![PDO](https://img.shields.io/badge/PDO-white?style=for-the-badge&logo=php&logoColor=%23777BB4)
-![JWT](https://img.shields.io/badge/JWT-white?style=for-the-badge&logo=jsonwebtokens&logoColor=%23000000)
-![REST API](https://img.shields.io/badge/REST%20API-white?style=for-the-badge&logo=fastapi&logoColor=%23005571)
-![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=%232496ED)
-![n8n](https://img.shields.io/badge/n8n-white?style=for-the-badge&logo=n8n&logoColor=%23EA4B71)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PDO](https://img.shields.io/badge/PDO-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=000000)
+![REST API](https://img.shields.io/badge/REST%20API-%23005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 **Ferramentas:**
 
-![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=%23F05032)
-![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=%23181717)
-![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=%23FF6C37)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🖥️ Conhecimento em frontend
 
 > Suporte ao desenvolvimento full-stack — foco principal permanece no backend.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-white?style=flat-square&logo=react&logoColor=%2361DAFB)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-white?style=flat-square&logo=html5&logoColor=%23E34F26)
-![TypeScript](https://img.shields.io/badge/TypeScript-white?style=flat-square&logo=typescript&logoColor=%233178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
