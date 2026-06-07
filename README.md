@@ -42,31 +42,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
 
----
-
-## 🚀 Projeto em destaque
-
-### 🛒 SmartCart — Marketplace + Plataforma de vagas
-
-> Backend desenvolvido do zero com PHP puro, sem frameworks.
-
-| Camada | Tecnologia |
-|--------|------------|
-| Arquitetura | Controller → Service → Repository → Model |
-| Autenticação | 🔐 JWT |
-| Banco de dados | 🐬 MySQL via PDO |
-| API | 🌐 REST API |
-| Frontend (colaboração) | ⚛️ React + Vite |
-
-**Módulos implementados:**
-
-- 🛍️ Carrinho, pedidos, produtos e categorias
-- 🏷️ Cupons de desconto com validação de datas
-- 👤 Perfil de usuário e controle de papéis (RBAC)
-- 📊 Relatórios administrativos
-- ⭐ Sistema de avaliações
-
----
 
 ## 🏗️ Princípios que sigo
 
